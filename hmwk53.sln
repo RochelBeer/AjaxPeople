@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hmwk53.web", "hmwk53.web\hmwk53.web.csproj", "{EE33C93C-5F01-4A43-BF08-BB1F722DBB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hmwk53.data", "hmwk53.data\hmwk53.data.csproj", "{E594CEFF-0A63-43B2-B7CC-3C11B7115080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE33C93C-5F01-4A43-BF08-BB1F722DBB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE33C93C-5F01-4A43-BF08-BB1F722DBB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE33C93C-5F01-4A43-BF08-BB1F722DBB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE33C93C-5F01-4A43-BF08-BB1F722DBB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E594CEFF-0A63-43B2-B7CC-3C11B7115080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E594CEFF-0A63-43B2-B7CC-3C11B7115080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E594CEFF-0A63-43B2-B7CC-3C11B7115080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E594CEFF-0A63-43B2-B7CC-3C11B7115080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D20D4E11-A3BA-4A22-99A3-ABE254ECE751}
+	EndGlobalSection
+EndGlobal
